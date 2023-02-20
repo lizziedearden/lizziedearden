@@ -50,10 +50,10 @@ hobbies: ["Sustainable Fashion", "Gaming", "Films", "Running", "Sewing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
 </p>
----
+<!-- ---
 <h2>My github history 💻</h2>
 <p align="center">
 
 </p>
 ![Snake animation](https://github.com/lizziedearden/lizziedearden/blob/output/github-contribution-grid-snake.svg)
-<img src="https://capsule-render.vercel.app/api?tsection=footer&type=rounded&color=745669&height=100" />
+<img src="https://capsule-render.vercel.app/api?tsection=footer&type=rounded&color=745669&height=100" /> -->
